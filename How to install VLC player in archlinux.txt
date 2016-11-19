@@ -1,0 +1,9 @@
+Hello
+
+
+1.Open a terminal(konsole)
+
+2.To update your reppository type yaourt -Syy or pacman -Syy
+
+3.Then type again yaourt vlc or pacman -S vIt will open  instakkation files
+with number,select community or extra and confirm with Enter.Just type y and enter.
